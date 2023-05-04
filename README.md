@@ -16,7 +16,10 @@ This website lists all the crypto coins,details of that coin,news around crypto 
 
 ## Demo
 
-[Live-Project]([https://jade-quokka-38c23e.netlify.app/])
+## Demo
+
+[Live-Project](https://jade-quokka-38c23e.netlify.app/)
+
 
 ## Features
 
